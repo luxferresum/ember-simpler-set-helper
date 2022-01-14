@@ -1,11 +1,11 @@
 {
-  "name": "ember-simple-set-helper",
+  "name": "ember-simpler-set-helper",
   "version": "2.0.0",
   "description": "A(nother) better `mut` helper!",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "https://github.com/pzuraq/ember-simple-set-helper",
+  "repository": "https://github.com/luxferresum/ember-simpler-set-helper",
   "license": "MIT",
   "author": "Chris Garrett",
   "directories": {

@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd ember-simple-set-helper`
+* `cd ember-simpler-set-helper`
 * `yarn install`
 
 ## Linting

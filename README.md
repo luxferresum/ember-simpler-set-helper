@@ -1,7 +1,7 @@
 # ember-simple-set-helper
 
-**NOTE: This addon is deprecated in favor of [ember-set-helper](https://github.com/pzuraq/ember-set-helper)**
-
+**NOTE: This addon is forked from [ember-simple-set-helper](https://github.com/pzuraq/ember-simple-set-helper) to be compatible with ember 4.0**
+this should be a drop-in replacement
 ---
 
 A(nother) better `mut` helper!
@@ -87,14 +87,14 @@ user clicks the button).
 
 ## Compatibility
 
-- Ember.js v3.4 or above
-- Ember CLI v2.13 or above
-- Node.js v8 or above
+- Ember.js v3.28 or above
+- Ember CLI v3.28 or above
+- Node.js v12 or above
 
 ## Installation
 
 ```
-ember install ember-simple-set-helper
+ember install ember-simpler-set-helper
 ```
 
 ## Contributing

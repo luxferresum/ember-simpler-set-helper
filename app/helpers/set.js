@@ -1,1 +1,1 @@
-export { default } from 'ember-simple-set-helper/helpers/set';
+export { default } from 'ember-simpler-set-helper/helpers/set';
